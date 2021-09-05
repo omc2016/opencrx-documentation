@@ -5,8 +5,8 @@ This guide explains how to write a [Polymer](https://www.polymer-project.org/) c
 ## Prepare ##
 This guide assumes that 
 
-* the _openCRX Server_ is successfully installed as described in [openCRX Server Installation Guide](Admin/InstallerServer.md).
-* the _openCRX/Sample_ custom project is installed as described in [How to create a custom project](Sdk/CustomProject.md).
+* the _openCRX Server_ is successfully installed as described in [openCRX Server Installation Guide](/Admin/InstallerServer.md).
+* the _openCRX/Sample_ custom project is installed as described in [How to create a custom project](CustomProject.md).
 * _Bower_ is installed. See [Bower - A package manager for the web](http://bower.io/) for more information.
 
 ## Overview ##

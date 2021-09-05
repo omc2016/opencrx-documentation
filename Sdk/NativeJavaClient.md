@@ -15,7 +15,7 @@ __IMPORTANT:__ Use this deployment scenario with caution. Unexpected effects can
 multiple instances of _openCRX_ access the same database.
 
 __HINT:__ For non-_Java_ programming languages, _openCRX_ offers a _REST_ service which allows remote clients to 
-access the full API of _openCRX_. For more information see [How to use the REST Servlet](Sdk/Rest.md). 
+access the full API of _openCRX_. For more information see [How to use the REST Servlet](Rest.md). 
 For the _Java_ programming language, _openCRX_ offers a client library which allows to access _openCRX_  using 
 the standard _openCRX_ Java API.
 

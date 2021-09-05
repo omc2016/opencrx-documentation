@@ -8,8 +8,8 @@ Many thanks to [Bruno Studer](https://sourceforge.net/u/brunostuder/profile/) fo
 ## Prepare ##
 This guide assumes that 
 
-* the _openCRX Server_ is successfully installed as described in [openCRX Server Installation Guide](Admin/InstallerServer.md).
-* the _openCRX/Sample_ custom project is installed and deployed as described in [How to create a custom project](Sdk/CustomProject.md).
+* the _openCRX Server_ is successfully installed as described in [openCRX Server Installation Guide](/Admin/InstallerServer.md).
+* the _openCRX/Sample_ custom project is installed and deployed as described in [How to create a custom project](CustomProject.md).
 * the _Android SDK_ installed. See [Get the Android SDK](http://developer.android.com/sdk/index.html) for more information.
 
 ## Overview ##

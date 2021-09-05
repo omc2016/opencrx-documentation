@@ -599,6 +599,6 @@ An international trading company managing multiple warehouses in several branche
 * _SimpleBooking:_ not used
 * _DepotGroup:_ Not used
 
-Continue reading [Part II](Sdk/Modeling2.md).
+Continue reading [Part II](Modeling2.md).
 
 --- End of Part I ---
